@@ -1,0 +1,8 @@
+/building_blocks/dependabots/dependabot-core/
+/building_blocks/dependabots/renovate/
+/building_blocks/module_health/dependency_checker/
+/building_blocks/module_health/puppet-ghostbuster/
+/building_blocks/module_health/puppetfile-resolver/
+/building_blocks/module_health/r10k-resolve/
+/building_blocks/testing/onceover/
+/building_blocks/module_health/ra10ke/

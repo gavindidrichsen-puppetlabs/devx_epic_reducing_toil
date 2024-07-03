@@ -6,35 +6,35 @@
     },
     {
       "name": "dependabot-core",
-      "path": "dependabots/dependabot-core"
+      "path": "building_blocks/dependabots/dependabot-core"
     },
     {
       "name": "dependency_checker",
-      "path": "module_health/dependency_checker"
+      "path": "building_blocks/module_health/dependency_checker"
     },
     {
       "name": "onceover",
-      "path": "testing/onceover"
+      "path": "building_blocks/testing/onceover"
     },
     {
       "name": "puppet-ghostbuster",
-      "path": "module_health/puppet-ghostbuster"
+      "path": "building_blocks/module_health/puppet-ghostbuster"
     },
     {
       "name": "puppetfile-resolver",
-      "path": "module_health/puppetfile-resolver"
+      "path": "building_blocks/module_health/puppetfile-resolver"
     },
     {
       "name": "r10k-resolve",
-      "path": "module_health/r10k-resolve"
+      "path": "building_blocks/module_health/r10k-resolve"
     },
     {
       "name": "ra10ke",
-      "path": "voxpupuli/ra10ke"
+      "path": "building_blocks/module_health/ra10ke"
     },
     {
       "name": "renovate",
-      "path": "dependabots/renovate"
+      "path": "building_blocks/dependabots/renovate"
     }
   ],
   "settings": {

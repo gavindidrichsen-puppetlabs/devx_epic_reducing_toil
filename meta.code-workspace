@@ -1,0 +1,42 @@
+{
+  "folders": [
+    {
+      "name": "devx_epic_reducing_toil",
+      "path": "."
+    },
+    {
+      "name": "dependabot-core",
+      "path": "dependabots/dependabot-core"
+    },
+    {
+      "name": "dependency_checker",
+      "path": "module_health/dependency_checker"
+    },
+    {
+      "name": "onceover",
+      "path": "testing/onceover"
+    },
+    {
+      "name": "puppet-ghostbuster",
+      "path": "module_health/puppet-ghostbuster"
+    },
+    {
+      "name": "puppetfile-resolver",
+      "path": "module_health/puppetfile-resolver"
+    },
+    {
+      "name": "r10k-resolve",
+      "path": "module_health/r10k-resolve"
+    },
+    {
+      "name": "ra10ke",
+      "path": "voxpupuli/ra10ke"
+    },
+    {
+      "name": "renovate",
+      "path": "dependabots/renovate"
+    }
+  ],
+  "settings": {
+}
+}

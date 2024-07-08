@@ -37,6 +37,10 @@
       "path": "building_blocks/module_health/r10k-resolve"
     },
     {
+      "name": "ra10ke",
+      "path": "building_blocks/module_health/ra10ke"
+    },
+    {
       "name": "renovate",
       "path": "building_blocks/dependabots/renovate"
     }

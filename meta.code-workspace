@@ -17,6 +17,14 @@
       "path": "building_blocks/testing/onceover"
     },
     {
+      "name": "puppet-catalog-diff-viewer",
+      "path": "building_blocks/catalog_impact/puppet-catalog-diff-viewer"
+    },
+    {
+      "name": "puppet-catalog_diff",
+      "path": "building_blocks/catalog_impact/puppet-catalog_diff"
+    },
+    {
       "name": "puppet-ghostbuster",
       "path": "building_blocks/module_health/puppet-ghostbuster"
     },

@@ -32,6 +32,8 @@ Maintaining puppet code, e.g., keeping modules up-to-date, is for many organizat
 
 ## Setup
 
+Ensure the folowing is installed
+
 * [meta](https://github.com/mateodelnorte/meta-npm)
 
 ## Usage
@@ -43,4 +45,4 @@ meta git update
 
 ## Contributing
 
-If making a change to code warrants more explanation, then consider adding a separate design decision with `adr new "Do this so that"` and updating the root README with `adr-log -i README.md -d doc`.  For mor information see [ADR-0001](doc/adr/0001-record-architecture-decisions.md).
+If making a change to code warrants more explanation, then consider adding a separate design decision with `adr new "Do this so that"` and updating the root README with `adr-log -i README.md -d doc`.  For more information see [ADR-0001](doc/adr/0001-record-architecture-decisions.md).

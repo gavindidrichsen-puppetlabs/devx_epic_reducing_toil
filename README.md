@@ -15,7 +15,6 @@ Maintaining puppet code, e.g., keeping modules up-to-date, is for many organizat
     "building_blocks/module_health/puppet-ghostbuster": "https://github.com/voxpupuli/puppet-ghostbuster.git",
     "building_blocks/module_health/puppetfile-resolver": "https://github.com/puppetlabs/puppetfile-resolver.git",
     "building_blocks/module_health/r10k-resolve": "https://github.com/binford2k/r10k-resolve.git",
-    "building_blocks/module_health/ra10ke": "https://github.com/building_blocks/module_health/ra10ke.git",
     "building_blocks/testing/onceover": "https://github.com/voxpupuli/onceover.git"
   }
 }
